@@ -1,1 +1,1 @@
-# zara
+# wp--sample.php
