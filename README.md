@@ -1,1 +1,0 @@
-# wp--sample.php
